@@ -21,4 +21,10 @@ It will create the executable 'fof_main'. To run
 $ ./fof_main
 _____________________________________
 
+From N body copy the [](../N-body/input.nbody_comp) and [Title](../N-body/output.nbody_8.500)
+
+Into the directory of FoF halo finder. before funning as this are the input files needed to run.
+
+_____________________________________
+
 Please acknowledge Mondal et al. 2015 (http://adsabs.harvard.edu/abs/2015MNRAS.449L..41M), if you are using this code.
